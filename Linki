@@ -1,0 +1,22 @@
+http://wiki.ros.org/gmapping
+
+http://docs.ros.org/api/sensor_msgs/html/msg/LaserScan.html
+
+http://answers.ros.org/question/205594/localization-problem-with-gmapping-and-rplidar/
+
+http://geduino.blogspot.it/2015/04/gmapping-and-rplidar.html
+
+https://github.com/geduino-foundation/rplidar_ros
+
+http://home.isr.uc.pt/~davidbsp/publications/SPR_SSRR2013_SLAM.pdf
+
+http://wiki.ros.org/navigation/Tutorials/RobotSetup/TF
+
+
+
+How to run (or not) this shit!!!
+https://gist.github.com/atotto/c47bc69a48ed38e86947b5506b8e0e61
+http://wiki.ros.org/slam_gmapping/Tutorials/MappingFromLoggedData
+http://wiki.ros.org/slam_gmapping/Tutorials/MappingFromLoggedData#record
+
+
